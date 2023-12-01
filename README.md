@@ -15,6 +15,6 @@ So, by and large, we should to save small data (such as level names, player loca
 
 The system we use can serve as the basis for creating a system for saving game levels, tables of contents for articles, image galleries, and so on.
 
-For example, in our Animate.Space application we save every cartoon created by the user. 
+For example, in our [Animate.Space](https://animate.space/draw/) application we save every cartoon created by the user. 
 
-In Build with Cubes and Cute World Craft, we transfer a huge amount of data with the coordinates of the player, the cubes, newly added buildings and objects, to our server, save it there, and allow users to read it back and open the created user's worlds.
+In [Build with Cubes](https://www.ctp-design.net/en/articles/build-with-cubes-webgl.html) and [Cute World Craft](https://www.ctp-design.net/en/articles/cube-alchemy-make-game.html) we transfer a huge amount of data with the coordinates of the player, the cubes, newly added buildings and objects, to our server, save it there, and allow users to read it back and open the created user's worlds.
