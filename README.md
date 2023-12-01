@@ -1,4 +1,4 @@
-# save-and-load-levels-unity
+# Save and Load Game Levels in Unity
 Save and load a game level in Unity using PlayerPrefs and Unity System.IO, without Serialization or any additional libraries.
 
 Look how to save and load a game level in Unity using PlayerPrefs and Unity System.IO, without Serialization or any other additional libraries.
